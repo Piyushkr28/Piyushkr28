@@ -35,7 +35,7 @@ function Five() { // BAD_ASSIGN_IN_CONDITION
 
 function Six() { // UNUSED_EXPR
     this.foo + 42;
-}
+}//
 
 function Seven() { // SWITCH_CASE_FALL_THROUGH
     var x;
